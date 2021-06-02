@@ -1,2 +1,2 @@
 # goodbooks-list
- list of books for specific genre.
+ list of books for a specific genre.
